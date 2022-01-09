@@ -1,0 +1,1106 @@
+---
+title: "Presentation"
+subtitle: "secondary title"
+author: "Michael Girdwood"
+output:
+  xaringan::moon_reader:
+    css: [default, default-fonts, mgtheme2.css]
+    lib_dir: libs
+    seal: false
+    self_contained: true
+    
+---
+
+class: inverse, middle, left
+background-image: url(laseminverse.png)
+background-position:5% 95%
+background-size: 50%
+
+# Movement, time and space: 
+### Investigating muscle strength and cortical representations after anterior cruciate ligament injury
+
+Michael Girdwood
+
+m.girdwood@latrobe.edu.au
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Andromeda_Galaxy_560mm_FL.jpg/2560px-Andromeda_Galaxy_560mm_FL.jpg)
+background-size: 140%
+
+---
+
+## The Problem
+
+- ACL reconstruction rates are growing by 2.5% / year .font60[(Zbrojkiewicz, 2018)]
+
+- Direct costs / year of 142 million ( + future disease burden) .font60[(Zbrojkiewicz, 2018)]
+
+- Over 2/3 of people develop radiographic OA, and 1/3 will suffer from symptomatic OA within 10 years of injury .font60[(Lie, 2019)]
+
+<br></br>
+.content-box[**.black[We need to understand:]**
+
+- what causes people to decline in function
+- what can we do to enhance our treatment
+- what can be done to reduce the future burden]
+
+---
+
+## Muscle Strength
+
+Regaining muscle strength is a focus of rehabilitation, however our efforts often fall short:
+
+.pull-left[#### Quadriceps & Hamstring Strength
+
+- Up to 20% deficit at 12 months compared to the uninjured side .font60[(Palmieri-Smith, 2008)]
+
+- Weakness of moderate to large effect sizes when compared to healthy populations .font60[(Brown, 2021)]
+
+- Weakness persists beyond 24 months .font60[(Tayfur, 2020)]
+]
+
+.pull-right[
+<img src = "biodex.jpg" width = 70% />
+
+]
+---
+
+## Muscle Strength
+
+.pull-left[
+- Deficits in strength span different contraction types and speeds .font60[(Tayfur, 2020)]. 
+
+- They also extend to other muscle groups - the calf and the hip are also impaired .font60[(Thomas, 2013)]. 
+
+]
+.pull-right[
+<img src = "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/07/26/Pictures/_680fade2-ceb0-11ea-8f16-bf30a6fcabb3.jpg" >
+]
+  
+  <br>
+  .content-box[.center[A summary of the evidence in the calf and hip is needed]
+]
+---
+
+## Muscle impairments   
+<br>
+#### Strength isn't the only problem:
+
+
+| Problem                                                    | Effect           | Comparitor                    | Reference        |
+|------------------------------------------------------------|------------------|-------------------------------|------------------|
+| Reduced cross-sectional area                               | Small - moderate | Un-injured limb               | Birchmeier, 2020 (SR)
+| Reduced ability to develop force rapidly (Rate of Force Development)             | Large            | Un-injured / Healthy Controls | Turpeinen, 2020 (SR)  |
+| Worse sub-maximal force control                            | Large            | Healthy Controls              | Ward, 2019       |
+| Altered muscle timing/activation with landing tasks (EMG)  | Significant      | Healthy Controls              | Rocchi, 2020     |
+| Reduced muscle quality on biopsies                                 | Large            | Un-injured limb               | Peck, 2019       |
+
+---
+
+class: inverse, middle
+
+## ACL injury leads to wide-ranging detrimental effects on muscles and their function - even after rehabilitation has finished.
+
+---
+
+## Why is muscle function important?
+
+- Determinant of successful return to pre-injury activity .font60[(Grindem, 2016)].
+
+- Improved long term outcomes. 
+  - Better quads strength = better self reported knee function @ 2 years .font60[(van Wyngaarden, 2021)] 
+
+- Maintenance of joint health 
+  - Quadriceps weakness associated with a 1.65x higher risk of developing non-traumatic knee OA .font60[(Øiestad, 2010)].
+  
+  - Less important in ACLR populations compared to trauma from injury? .font60[(Øiestad, 2015)].
+
+---
+
+## Central Nervous System
+
+.content-box[#### We must also consider other aspects of the human movement system to optimise treatment and long term outcomes after knee injury .
+]
+
+.pull-left[<br>
+- Ongoing deficits in muscle strength or physical function may be partly mediated by changes in the CNS .font60[(Rodriguez, 2020)]
+]
+.pull-right[
+.center[
+<img src = "https://qbi.uq.edu.au/files/27984/central-nervous-system-QBI-sm.jpg" width = 80%/>
+]
+]
+
+---
+
+## CNS - What do we know? 🧠
+
+- Lower cortico-spinal excitability of the quadriceps bilaterally after ACL injury (measured with TMS) .font60[(Rodriguez, 2020)]
+
+- fMRI shows changes in activity levels across motor, visual and somatosensory brain regions .font60[(Neto, 2019)]
+
+- Evidence of central re-organisation of motor and sensory brain regions .font60[(Needle, 2017)]
+
+- Most current rehabilitation approaches don't target CNS impairments .font60[(Criss, 2021)]
+
+---
+
+background-image: url(inout.png)
+background-size: 100%
+
+--
+
+.pull-down[
+- Altered sensory processing is a possible contributor to persistent neuromuscular deficits after knee injury .font60[(Roos, 2011; Kapreli, 2006; Ward, 2015)] 
+
+- Disrupted **inputs** precipitate CNS reorganisation.font60[(Buonomano, 1998)], and can lead to altered .red[output] .font60[(Parsons, 2001)]
+]
+
+---
+
+## Cortical Representations of the Body
+
+.content-box[It is also possible the CNS processes involved in incorporating afferent inputs, motor planning and other contextual factors may be dysfunctional
+]
+
+These have been termed **cortical representations** .font60[(Moseley & Flor, 2012)].
+
+.center[<img src = "https://media.wired.com/photos/59324e5452d99d6b984dd9a0/master/pass/brain1.jpg" width = 30% />]
+Importantly, we can assess cortical representations with novel methods that use the same central processes .font60[(Moseley & Flor, 2012)]. 
+
+---
+
+## Why is this important?
+
+.pull-left[
+- Treatments targeting both the periphery (e.g. muscle strength) and the CNS (maximising neuroplasticity) are under-researched .font60[(Needle, 2017)]
+
+<img src = "https://cdn2.coachmag.co.uk/sites/coachmag/files/styles/16x9_480/public/2018/10/legs-workout.jpg?itok=8wsiCujo&timestamp=1539950429" />
+]
+
+.pull-right[
+
+<img src = "https://drruscio.com/wp-content/uploads/2021/07/illustration-of-the-human-brain.png" />
+- Combining strategies might provide more holistic rehabilitation of all impairments that occur after ACL injury .font60[(Criss, 2021)]
+
+]
+
+---
+
+class: inverse, middle
+
+## Thesis Aims
+> 1. To determine the trajectory of lower-limb muscle strength after ACL injury, specifically the muscles of the thigh, lower leg and hip
+
+> 2. To determine whether cortical representations are altered after ACL injury
+
+> 3. Determine whether incorporating understanding of cortical representations with training for muscle strength can enhance strength outcomes
+
+---
+
+class: center, middle
+
+<img src = "studyplan.png" width = />
+
+---
+
+
+class: inverse, middle
+
+## Study 1
+###The trajectory of muscle strength and physical function changes after ACL injury: a systematic review
+
+---
+## Overview
+
+
+.pull-left-2[
+.content-box[**.black[The problem:]**] 
+
+- Temporal changes in muscle strength - *i.e. how time influences change in outcomes* - is poorly understood after ACL injury.
+
+  - This relationship is critical to understanding prognosis.
+  
+- We also don't know how weakness in one muscle relates to another, or how this links to physical function
+]
+
+.pull-right-1[.center[
+<img src = "https://live.staticflickr.com/7185/27715972932_d545460143_c.jpg" width = 45%/>
+]
+]
+---
+
+## Overview
+
+#### Several previous reviews have looked at muscle strength and physical function with limitations:
+
+
+- Lack of quantitative synthesis .font60[(Abrams, 2014)]
+- measuring single muscle groups only .font60[(Moloney, 2014; Lisee, 2019)]
+- focusing on graft comparisons only .font60[(Xergia, 2011)]
+- not comparing to un-injured controls .font60[(Abrams, 2014)]
+
+.content-box[
+**No-one has looked at quantitative synthesis of:**
+- longitudinal changes in muscle strength
+- strength of hip and calf muscles
+- physical function deficits compared to controls
+]
+---
+
+class: inverse, middle
+
+## Aims
+> 1. to investigate how muscle strength and physical function change over time in individuals after ACL injury
+
+> 2. to investigate the relationship between strength of different lower limb muscle groups
+
+---
+
+
+## Methods
+
+**.black[Design:]** Systematic review adhering to PRISMA guidelines.
+
+**.black[Pre-registered]** on PROSPERO: CRD42020216973 27 Dec 20
+
+**.black[Search:]** Medline, EMBASE, CINAHL, CENTRAL, Scopus & SPORTDiscus
+  - no restrictions on language or date
+  - tailored to each database using MeSH and free-text terms.
+
+**.black[Methodological Quality:]** Cochrane RoB 2.0 for RCTs, SIGN Checklist for all other designs.
+  
+  
+---
+
+## Study Criteria
+
+.content-box[**.black[Participants]**]
+- Primary ACL injury (ACLD or ACLR) with mean age 18-40 years at time of injury or surgery.
+- No restrictions on graft, surgery or rehabilitation
+
+<br>
+
+.content-box[**.black[Types of Studies]**]
+- All experimental designs, except case series with n<10
+- Studies in languages other than English translated using DeepL - <u>deepl.com</u>
+
+---
+
+## Study Criteria - Outcomes
+<br>
+.content-box[
+.pull-left[#### Muscle Strength
+  - isokinetic or hand held dynamometer
+  - any lower limb muscle]
+
+.pull-right[#### Physical Function
+  - quantitative measures of lower limb physical function
+  - single leg only
+]]
+
+<br>
+.center[Comparison to the **uninjured limb** <br>
+and/or <br> 
+an uninjured **control grouup**]
+
+---
+
+## Data Analysis Plan - Primary Aim
+
+- Longitudinal meta-analysis, conducted with framework described by *Ishak et al, 2007, Clin Trials*
+
+<img src = "ishak.png"  width = 80%/>
+
+- Employs mixed-effect models to account for correlations *within* and *between* studies .font90[(allowing multiple timepoints to be contributed from one cohort)]
+
+- Follow up timepoints of included studies will be inputed as categorical or continuous values, with best fit evaluated for final analysis (using AIC and BIC)
+
+---
+
+## Data Analysis Plan
+
+
+#### Secondary Aims
+Multivariate meta-analysis to investigate relationships between muscle strength and/or function compared to controls. 
+
+.pull-left[<img src = multima.png width = >]
+
+.pull-right[ <br>
+Uses structured equation modeling to allow for each study contributing multiple effect sizes that are not independent (e.g. a quadriceps and hamstring strength measure) .font70[(Cheung, 2015)]]
+---
+
+## Results
+.center[
+<img src = PRISMA.png width = 70%>]
+
+---
+class: inverse, middle, left
+
+## Study 2: 
+
+### The influence of hip muscle strength on patellofemoral joint outcomes following anterior cruciate ligament reconstruction.
+
+
+---
+## Why the hip after ACL Reconstruction?
+
+
+.pull-left[
+#### What we know:
+- 24% of people suffer from patellofemoral pain at 1 year post ACLR .font60[(Culvenor, 2017)]
+
+- Hip muscle weakness is characteristic of PFJ pain and knee osteoarthritis .font60[(Rathleff, 2014)]
+
+- Hip rotation muscles play a role in the control of knee positioning during movement .font60[(Cashman, 2012)]
+
+]
+
+
+.pull-right[
+#### What we **don't** know:
+
+- Limited research into hip rotation strength after ACLR
+
+- Whether hip rotation strength is associated with long term knee sypmtoms
+
+]
+---
+class: inverse, middle
+
+## Research Question: 
+
+> - How does hip strength differ between the injured and non-injured side in people 1-year after ACLR?
+
+> 
+
+> - Is hip strength associated with functional, symptomatic and structural outcomes?
+
+---
+
+## Methods: participants
+
+.pull-left[
+- Longitudinal study monitoring knee joint structure, function and symptoms (Culvenor et al, 2015)
+
+- Primary ACLR (HS autograft) 1 year prior 
+
+- No structured rehab
+]
+
+
+.pull-right[
+
+| Measure |	ACLR Group (n=111) |
+|---------|--------------------|
+|Age (years)	|27.4 (22.2 - 36.1)
+|Gender (n, % F)|	43 (35%)
+|Height (cm)|	175 (170 - 181)
+|Weight (kg)	|81.2 (67.0 - 90.8)
+|BMI (kg/m2)|	25.6 (23.2 - 27.8)
+|Tegner Activity |	6 (4 - 7)
+.center[.font60[Median (Interquartile Range (IQR)) ]]
+
+]
+
+<br></br>
+
+.center[<img src = "koala.png", width = "30%" />
+]
+
+---
+
+## Methods
+
+.center[
+
+**Hip External Rotation & Internal Rotation with HHD**
+
+<img src = "hipstrength.png" width = "70%" />
+
+
+]
+
+
+.right[Measured *only at 1 year*]
+
+---
+
+## Methods: Outcomes and Analysis
+
+.m[<img src="DAGSMA.png" />]
+
+---
+
+## Results: Injured vs non-injured side
+
+.left-column[.black[
+
+Small but significant difference in ER strength
+
+SMD = -0.33 (-0.6 to -0.07)]
+
+<br></br>
+
+.black[No difference in IR strength.]]
+
+.right-column[<img src= "affnonaff.png" width = "85%" />
+
+]
+
+---
+
+## Assocation to .green[Function]
+
+- Both Hip ER and IR were associated with all  measures at 1 year and 5 years.
+
+- Strongest relationships with <u>Hop for Distance</u> and <u>Triple Crossover Hop</u> for both.
+
+- Adjusted R<sup>2</sup> values were lower at 5 years:
+
+<br><br/>
+
+.pull-left[
+| .purple[1 Year] | ER | IR | 
+|-|---|---|
+|Hop for distance| 0.51| 0.47
+| One leg rise | 0.24 | 0.21|
+| Side Hop | 0.5 | 0.34 |
+| Triple Hop | 0.6 | 0.59 |
+]
+
+| .green[5 Year] | ER | IR | 
+|-|---|---|
+|Hop for distance| 0.4| 0.33
+| One leg rise | 0.22 | 0.15|
+| Side Hop | 0.42 | 0.31 |
+| Triple Hop | 0.46 | 0.38 |
+
+.center[.font90[(age and gender included in models)]]
+
+---
+
+## Association to .blue[Symptoms]
+
+- .font90[**Higher** hip ER & IR strength was associated with **superior** AKPS  at 1 and 5 years.]
+
+.center[<img src = "ameplot.png" width = "107%"/>]
+
+---
+
+## Assocation to .red[Structure] (Imaging)
+
+Lower hip ER strength was associated with **worsening tibio-femoral** cartilage lesion score **.black[at 5 years]**  (OR 0.01 (95%CI 0.00 to 0.41))
+
+<br>
+
+.center[
+<img src = "ORForest.png" width = 82%/>]
+
+---
+
+## Discussion
+
+- Hip ER may influence symptoamtic and structural outcomes as it is critical to single leg functional tasks.
+ 
+- ER specific weakness could result from:
+
+  -  lack of training/rehab
+
+  - weakness broadly of the entire lower limb (not specific to the hip). 
+
+.center[
+<img src = "deadlift.jpeg" width = "50%" />   
+]
+   
+---
+
+class: middle
+
+## Key Summary
+
+.content-box[
+- Hip ER strength was impaired on the injured side at 1 year post ACLR
+
+- This may contribute to functional, symptomatic, and structural outcomes up to 5 years post-operatively.
+
+- Contrary to initial hypothesis, hip rotation strength was not associated with PFJ structure
+]    
+---
+
+class: inverse, middle
+
+## Studies 3 & 4 - Methods: 10-12 Year Follow Up of the KOALA Cohort
+
+---
+
+background-image: url(koala_flow_chart_v3.png)
+background-size: 100%
+
+## KOALA Study 
+
+--
+
+.pull-down[Culvenor et al, 2015 -----> Patterson et al, 2020 ------> ]
+---
+
+## Patient Reported Outcome Measures 📋    
+
+.pull-left[
+#### Previously captured PROMS
+- Knee injury Osteoarthritis Outcome Score (KOOS)
+- KOOS-PF
+- IKDC
+- Tampa Scale of Kinesiophobia (TSK-11)
+- ACL-QoL
+- Health Related Quality of Life (EQ-5D)
+- Patient Acceptable Symptom State
+- Current activity, medication use, injury history
+]
+
+.pull-right[
+#### Additional PROMS
+
+- Hospital Anxiety and Disability Scale
+- Bergen Insomnia Scale
+- Work Limitations Questionnaire
+- Nordic Pain Questionnaire
+- Self Administered Comorbidity Questionnaire
+]
+---
+
+## Imaging
+
+.pull-left[Bilateral weightbearing X-ray with AP, lateral and also non-weightbearing skyline views.
+
+OARSI Criteria for radiographic OA .font60[(Altman & Gold, 2007)] :
+- joint space narrowing of grade >=2
+
+- sum of osteophytes >=2
+- grade 1 osteophyte in combination with joint space narrowing ]
+
+.pull-right[
+.center[
+<img src = "licxray.png" width = 70%/>]
+]
+---
+
+## Clinical Testing
+
+.pull-left[
+
+- Anthropometrics
+
+- Knee Crepitus .font60[(Schipof, 2014)]
+
+<br>
+- Single Leg Hop .font60[(Gustavsson, 2006)]
+
+- Triple Crossover Hop .font60[(Reid, 2007)]
+
+- Side Hop .font60[(Gustavsson, 2006)]
+
+- One Leg Rise .font60[(Thorstensson, 2004)]
+]
+.pull-right[
+<img src = "http://semrc.blogs.latrobe.edu.au/wp-content/uploads/2018/02/hop-for-distance.jpg" width = 70%/>
+
+<img src = "http://semrc.blogs.latrobe.edu.au/wp-content/uploads/2018/02/One-leg-rise-768x472.jpg" />
+]
+
+
+---
+
+## Muscle Strength 🏋️
+
+.pull-left[**Quadriceps & Hamstrings** 
+
+- MVIC at 60 degrees knee flexion using an isokinetic dynamometer
+
+- 3 x 6 second maximal contraction with 30 seconds rest between
+
+- Identical position and protocol to SUPER KNEE and TRAIL studies.]
+
+.pull-right[
+
+<img src = "biodex.jpg" width = 90%/>
+]
+
+---
+
+##  Muscle Strength 🏋️‍
+
+.pull-left[
+
+**Calf Endurance**
+
+- Maximal heel rise test
+
+- Conducted at 60 bpm to metronome
+
+
+<img src = "calf2.jpg" />
+
+]
+
+.pull-right[
+
+<img src = "calf1.jpg" /> 
+
+- 
+Excellent reliabiltiy .font60[(Sman, 2014; Hébert-Losier, 2017)]
+
+]
+
+---
+
+##Biomechanics 🎥
+
+.pull-left[
+
+- Walking (in sandals)
+
+- Running (self-selected pace, in sandals)
+
+- Vertical Hop (maximal)
+
+- 2.2Hz Hopping
+]
+
+.pull-right[
+
+<img src = "https://images.justgiving.com/image/09eaf881-199e-4871-a0c6-85aec46b9fc0.jpg?template=size250x250" />
+]
+---
+
+class: inverse, middle
+
+## Study 3: 
+
+### Lower-limb muscle strength changes 11 years after ACLR and association to outcomes 
+
+---
+
+## Background
+
+.pull-left-2[
+- Self-reported function and quality of life is lower after ACL injury, and never returns to pre-injury levels for many people .font60[(Filbay, 2015)].
+
+<br>
+- Cross-sectionally, **worse muscle strength** and physical function is associated with **worse self-reported function** in the first 2 years after injury .font60[(Ageberg & Roos, 2016)].
+]
+
+.pull-right-1[
+
+<img src = "https://truesportsphysicaltherapy.com/wp-content/uploads/2017/09/knee-injury-rehabilitation.jpg" />
+]
+
+---
+
+## The knowledge gap
+.middle[
+
+
+
+.content-box[
+Less is known about how lower limb muscle strength relates to long term (>5 years) self reported function and quality of life.
+]
+
+.center[
+<img src = "https://images.emedicinehealth.com/images/article/main_image/knee-injury-1.jpg" width = 40%/>
+]
+.content-box[
+Muscles <u>other than </u> the quadriceps and hamstrings haven't been studied in relation to long term prognosis]
+
+
+]
+---
+
+class: inverse, middle
+
+## Aims
+> 1. to report the strength of the quadriceps, hamstrings and calf muscles in people 11 years after primary ACLR 
+
+> 2. to investigate the association of muscle strength to self-reported outcomes at 11 years
+
+> 3. to determine whether change in strength from 1 to 11 years is associated with self-reported outcomes at 11 years.
+
+---
+## Procedure
+
+**.black[Design]**: Longitudinal Cohort Study
+
+**.black[Participants]**: All participants who complete muscle strength testing as part of the KOALA10 project will be included in this study. 
+
+- A subset of participants (n=47) underwent strength testing at baseline entry into this study (1 year post ACLR) - and will have their data investigated longitudinally. 
+
+<br>
+
+.center[
+<img src = "koala.png" width = 50%/>
+]
+
+---
+
+## Outcomes
+
+| Outcome                | Measure                                                      | Timepoints           |
+|------------------------|--------------------------------------------------------------|----------------------|
+| Quadriceps Strength    | MVIC @ 60°                                                   | 1 and 11 years       |
+| Hamstring Strength     | MVIC @ 60°                                                   | 1 and 11 years       |
+| Calf Strength          | Reps to failure                                              | 11 years only        |
+| Physical Function      | Single leg hop, triple crossover hop, <br> side hop, one leg rise | 1, 5 and 11 years    |
+| Self-reported Function | KOOS4 & IKDC measures                                        | 1, 3, 5 and 11 years |
+
+---
+
+## Data Analysis Plan
+
+**.black[Primary Aim]** - Linear regression models controlling for gender (with interaction term (side x gender))
+
+**.black[Secondary Aims]** - Association of muscle strength to outcomes (and influence of time)
+
+- *Dependent variables:* PROM scale or physical function outcome
+
+- *Independent variables:* quadriceps or hamstring strength
+
+- *Covariates:* age, gender and timepoint
+
+
+.content-box[
+To account for the correlated repeated observations, a generalised linear mixed model (GLMM) will be used, with subject ID as the random effect .font60[(Hunger 2012)]]
+
+---
+
+class: inverse, middle
+
+## Study 4:
+### Are cortical representations of space altered after anterior cruciate ligament reconstruction?
+
+---
+
+background-image: url(inouteffects.png)
+background-size: 100%
+
+## Background
+
+.pull-down[
+- Impairments after ACL injury extend beyond muscle strength <br>and physical function]
+---
+## The working body schema
+
+.pull-left-1[
+<br>
+.content-box[Integration of sensory information and central processing (e.g. memory) to form a **cortical representation of space** .font60[(Parsons, 2001; Moseley 2012)]
+]]
+
+
+<img src = "bodyspace.png" width = 64%/>
+
+.pull-down[.font70[Image simplified from Riva, 2018, Cortex]]
+
+---
+
+## The working body schema
+
+.pull-left[#### Can be investigated with implicit motor imagery, such as in a left-right judgement task.
+.center[
+<img src = "lrj_hand.png" width = 65%/>
+]
+]
+
+.pull-right[
+- Evidence from knee OA .font60[(Stanton, 2012)] and other MSK conditions show disrupted working body schema .font60[(Breckenridge, 2017)].
+
+- No differences compared to controls in recent study in ACLD population .font60[(Ismail, 2019)]
+  - High functioning with minimal disability?
+]
+
+---
+
+## Cortical representations of space
+
+.pull-left[
+- The working body schema may also encompass boundaries beyond the body - forming a peripersonal 'body matrix' .font60[(Moseley, 2012)]
+
+<br>
+
+- An innovative method of measuring spatial representations is by **localisation of sound.**
+
+.center[
+#🔊
+]
+
+
+]
+
+.pull-right[
+- Almost all research previously in neurological conditions .font60[(Pavani, 2004)]
+
+<br>
+
+- A recent study in chronic hamstring pain showed <u>worse performance on the affected side </u> (worse ability to localise sound) .font60[(Summers, 2019)] 
+
+]
+---
+
+class: inverse, middle
+
+## Aims
+
+> 1. Determine whether people after ACLR have worse implicit motor imagery and auditory detection testing performance, compared to healthy controls or the non-injured limb.
+
+> 2. Investigate whether performance on these tests relates to self-reported and physical function outcomes
+
+---
+## Procedure
+
+**.black[Design]**: Case-control Study adhering to STROBE guidelines
+
+**.black[Participants]**: Participants from Study 3 form the ACLR group. 
+
+**.black[Comparator]**: Healthy control group recruited through university advertisement, word of mouth and social networks.
+
+**Control group - Inclusion criteria:**
+
+.font90[
+- No current musculoskeletal complaints 
+- No history of any knee injury on either side of the body 
+- No history of neurological disease 
+- No history of major lower limb surgery, or significant lower limb pain of over 6 months in duration 
+- Age between 30-60 
+- Previous participation in Level I or II sports (jumping cutting pivoting sports or lateral movements.)
+]
+---
+
+## Left-Right Judgement
+
+.pull-left[<img src = "lrj_knee.png" />]
+
+.pull-right[
+
+- Testing of implicit motor imagery using the Recognise App (NOI Group)
+
+- Used extensively in musculoskeletal research .font60[(Breckenridge, 2017)], and has good reliability .font60[(Williams, 2019)].
+
+- Participants must judge whether the image corresponds to the left or right side
+
+- Two measures - accuracy, and reaction time
+]
+---
+## Left-Right Judgement
+
+.pull-left[
+- One set of 20 images for familiarisation
+
+- One set of 40 **knee** images and 40 **hand** images
+
+.center[<img src = "lrj_position.jpg" width = 50%/>]
+
+]
+.pull-right[<img src = "lrj_hand.png" />]
+
+---
+
+
+## Spatial acuity testing
+
+.pull-left[ **Auditory Detection Testing**
+
+- 40 sounds played from a smartphone using custom designed web app
+
+- 1000 Hz true tone, ~80 dB, 5 seconds apart
+
+- Participants told to respond verbally as to which side of the body they hear the sound coming from
+
+]
+.pull-right[.center[
+
+<img src = "audtester.PNG" width = 70% />]
+]
+
+---
+## Auditory Detection Testing
+.pull-left[
+
+<img src = "audtest_position.jpg" />
+]
+
+.pull-right[
+
+- Site of sound is randomised:
+  - left front, left back
+  - right front, right back
+
+
+- Methodology used in previous research in chronic hamstring pain .font60[(Summers, 2020)]
+]
+---
+
+## Data Analysis Plan
+
+**Primary Aim - Implicit Motor Imagery**
+
+To determine whether previous ACLR (and the side affected) influences left-right judgement:
+
+- 3 (group; L ACLR, R ACLR, control) x 2 (side of image; left, right) <br> ANOVA controlling for age, with interaction term
+
+- Seperate models for accuracy and reaction time, and also for knee and hand images 
+
+---
+
+## Data Analysis Plan
+
+**Primary Aim - Auditory Detection Testing**
+
+Previous research with this outcome has resulted in significantly skewed data with inability to run statistical comparisons .font60[(Summers, 2020)]
+
+- Comparisons between sides and groups will be trialled with a Mann-Whitney U Test (if appropriate)
+
+- Visual inference methods, in which an array of plots are used to make a graphical inference about the data .font60[(Wickham, 2010)]
+  - valid method of analysis .font60[(Majumder, 2013)]
+  - can be useful for where traditional statistical tests are unable to be used
+
+---
+
+class: inverse, middle
+
+## Study 5: 
+
+### Optimising strength training after anterior cruciate ligament reconstruction by targeting central nervous system plasticity: A randomised controlled trial
+
+
+---
+
+## Background
+
+- Muscle strength deficits persist, even after rehabilitation has finished
+
+- Central nervous system changes are implicated as a factor in persistent muscle weakness .font60[(Pietrosimone, 2013)].
+
+  - Our current rehabilitation approaches may not address these impairments .font60[(Criss, 2021)]
+
+.center[
+<img src = "https://www.melbournesportsphysiotherapy.com.au/static/uploads/images/squat-wfisdivdcpht.jpg?mode=max&upscale=true&width=431" width = 40% />
+]
+---
+
+## Rationale
+
+.content-box[Strategies to increase neurocoginitive demand and encourage neuroplasticity may target CNS impairments
+]
+
+.pull-left[
+- Externally paced training .font60[(Leung, 2013)]
+
+- Cueing strategies focused on external targets .font60[(Wulf, 2010)]
+- Limited investigation in lower limb pain populations
+]
+
+.pull-right[
+Motor imagery training
+  - mental simulation of a task .font60[(Leung, 2013)]
+  
+  - target cortical representations of space, and with benefits to muscle strength
+]
+
+---
+
+class: inverse, middle
+
+## Aims
+
+> To compare: <br> i) motor imagery training of strength exercise, <br> ii) externally paced focused strength training  and <br> iii) traditional self paced strength training <br> - for strength and physical function outcomes.
+
+---
+
+## Procedure
+
+**.black[Design]**: Randomised Controlled Trial adhering to SPIRIT guidelines
+
+**.black[Blinding]**: Assessors and participants
+
+**.black[Participants]**: Primary ACLR 
+
+.pull-left[
+**Inclusion criteria:**
+- Age 18-30
+
+- Primary ACLR operated with HS graft
+- within 12-24 months of surgery
+]
+
+.pull-right[
+**Exclusion criteria:**
+
+- Previous major lower limb surgery 
+- Previous or current neurological condition/injury 
+
+- Transcranial magnetic stimulation (TMS) exclusion criteria 
+
+]
+
+---
+
+## Interventions
+
+.content-box[
+
+1. Traditional self-paced strength training
+2. Motor Imagery Alone
+3. Externally paced strength training
+]
+
+
+.pull-left[
+- All delivered with a researcher, matched for time under tension and dosage.
+
+- 3 sessions / week for 3 weeks
+]
+
+.pull-right[ 
+<img src = "https://matthewboydphysio.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-13-at-5.28.25-PM.png" />
+
+]
+
+---
+
+## Outcomes
+
+**Primary Outome:** 
+- peak isometric torque of the quadriceps, measured at 60 degrees of knee flexion
+
+** Secondary Outcomes**
+- physical function - one leg rise and single-leg hop distance
+- corticospinal excitability of the quadriceps (measured with single pulse TMS)
+- performance on tests of spatial processing
+  - left/right judgement test
+  - auditory detection test
+
+---
+
+class: center, middle
+
+## Thesis Plan
+<img src = "confirmation_gantt.png" />
+
+---
+
+class: inverse, middle
+background-image: url(laseminverse.png)
+background-position:5% 95%
+background-size: 50%
+
+.center[<img src = "supervisors.png" width = 100%/>]
+
+## Thank you!
+
+.right[####Questions:
+
+m.girdwood@latrobe.edu.au
+
+@m_girdwood]
+
+---
+
